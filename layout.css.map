@@ -1,0 +1,1 @@
+{"version":3,"file":"layout.css","sources":["layout.less"],"names":[],"mappings":"AAAK;EAEF,UAAA;;AAID;EAEC,WAAA","sourcesContent":["body {\n  \n   color: red;\n\n}\n\np {\n  \n   color: navy;\n\n}"]}
