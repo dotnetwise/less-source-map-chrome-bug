@@ -20,4 +20,4 @@ less_watch will wait in the console window and watch for your .less changes and 
 ![wrong](http://content.screencast.com/users/softer/folders/Jing/media/011b685f-841b-4d12-95c0-8f2d34c3b440/2013-10-22_1740.png)
 
 ### Correct via http protocol
-![correct]http://content.screencast.com/users/softer/folders/Jing/media/864ec637-f16e-45e5-9970-d8565347f713/2013-10-22_1742.png)
+![correct](http://content.screencast.com/users/softer/folders/Jing/media/864ec637-f16e-45e5-9970-d8565347f713/2013-10-22_1742.png)
